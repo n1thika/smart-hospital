@@ -6,6 +6,8 @@ The Smart Hospital Data Synchronization System is a machine learning-based solut
 
 In many hospitals, patient information is scattered across multiple systems, causing delays, miscommunication, and inefficient decision-making. This project solves that problem by creating a centralized system that uses Machine Learning, Recommendation Systems, and NLP to provide real-time insights, treatment suggestions, and automated medical summaries.
 
+Additionally, the model development process was supported using LovableAI, which helped in improving model efficiency, optimizing workflows, and accelerating the overall development process. This integration ensures better performance, scalability, and adaptability of the system.
+
 🎯 Objectives
 Develop a secure and centralized hospital data system
 Analyze patient data using machine learning models
